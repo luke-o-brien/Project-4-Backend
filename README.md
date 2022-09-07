@@ -129,13 +129,15 @@ There Is one weakness in the code which is written. The weakness is that it is v
 
 ### Wins 
 
-We were able to create a website within the timeframe which was functional and met our MVP goals, the site included a slick UI which matched or improved upon our initial figma wireframe designs. 
-We were able to create the multi page sign up form and get this working reliably.
-We managed to overcome our initial struggles with the backend and the two user model to get trickier features such as the nested comments to work as required. 
-Lessons Learnt 
+- We were able to create a website within the timeframe of the project which fulfilled all of the functionality and met our MVP goals. This included two directories for venues and artists with search and filters, individual venue and artist pages and two multi page signup forms. 
+- Our  site included a slick UI which matched or improved upon our initial figma wireframe designs and carried the user through the site in an intuitive and simple way as we had intended it to in our user journey diagram.  
+- We were able to create the multi page sign up form based upon the typeform format and get this working reliably this included handling multiple different input types as well as integrating image uploads using the cloudinary cloud storage and upload widget. 
+- We managed to overcome our initial struggles with the backend and the two interacting user models which were the most complex element of our back end. We implemented the  trickier features such as the nested comments  to work as needed. . 
 
-When using frameworks or libraries to understand and account for the possibility they may act differently when deployed in the case of this project the Tailwind styling did not look the same in the deployed version as the localhost version and time was needed to fix this which was not available at the end of the project.
-Ensure that testing is done incrementally and not left till the end of the feature. This would have made debugginging easier and quicker as it would have been easier to see exactly what was breaking the feature rather than searching through a number of changes to see where the error was. 
+### Lessons Learnt 
+
+- When using frameworks or libraries to understand and account for the possibility they may act differently when deployed in the case of this project the Tailwind styling did not look the same in the deployed version as the localhost version and time was needed to fix this which was not available at the end of the project.
+- Ensure that testing is done incrementally and not left till the end of the feature. This would have made debugginging easier and quicker as it would have been easier to see exactly what was breaking the feature rather than searching through a number of changes to see where the error was. 
 
 ### Known Bugs
 
